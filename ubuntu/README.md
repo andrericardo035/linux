@@ -5,10 +5,8 @@ Ubuntu is forked from debian...
 packet manager:
 apt-get --> Debian, Ubuntu
 
-working with shell script:
-
 ----------------
-comandos UBUNTU:
+Comandos Ubuntu:
 ----------------
 --update and refresh repository lists
 sudo apt update
